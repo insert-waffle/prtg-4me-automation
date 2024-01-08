@@ -1,12 +1,7 @@
 
 <div align="center">
-
 # PRTG Monitoring Reporting Automation
-**DEV BRANCH**
 </div>
-
-
-  
 
 # About this project
 Monitoring using [PRTG Network Monitor](https://www.paessler.com/nl) and reporting automation using the ticketing tool [4me](https://4me.com/). It makes use of the [4me REST API](https://developer.4me.com/v1/) to create, update, close and modify tickets whenever PRTG reports issues with monitored devices
